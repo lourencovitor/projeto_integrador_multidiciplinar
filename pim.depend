@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1605445397 source:c:\users\vitor\documents\pim\auth.c
+	"auth.h"
+
+1605445355 c:\users\vitor\documents\pim\auth.h
+
+1605445814 source:c:\users\vitor\documents\pim\cancellation.c
+	<stdio.h>
+	"cancellation.h"
+
+1605445789 c:\users\vitor\documents\pim\cancellation.h
+
+1605445824 source:c:\users\vitor\documents\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	"auth.h"
+	"cancellation.h"
+
+1605446522 source:c:\users\vitor\documents\pim\nextpass.c
+	"nextPass.h"
+
+1605445876 c:\users\vitor\documents\pim\nextpass.h
+
+1605446064 source:c:\users\vitor\documents\pim\registerclaims.c
+	<stdio.h>
+	"registerClaims.h"
+
+1605446006 c:\users\vitor\documents\pim\registerclaims.h
+
+1605446197 source:c:\users\vitor\documents\pim\registercompliments.c
+	<stdio.h>
+	"registerCompliments.h"
+
+1605446168 c:\users\vitor\documents\pim\registercompliments.h
+
+1605446370 source:c:\users\vitor\documents\pim\registerofficial.c
+	<stdio.h>
+	"registerOfficial.h"
+
+1605446325 c:\users\vitor\documents\pim\registerofficial.h
+
+1605446431 source:c:\users\vitor\documents\pim\registerpatient.c
+	<stdio.h>
+	"registerPatient.h"
+
+1605446408 c:\users\vitor\documents\pim\registerpatient.h
+
+1605446494 source:c:\users\vitor\documents\pim\registerscheduling.c
+	<stdio.h>
+	"registerScheduling.h"
+
+1605446467 c:\users\vitor\documents\pim\registerscheduling.h
+

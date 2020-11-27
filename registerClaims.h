@@ -1,0 +1,6 @@
+#ifndef REGISTERCLAIMS_H_INCLUDED
+#define REGISTERCLAIMS_H_INCLUDED
+
+int registerClaims();
+
+#endif // REGISTERCLAIMS_H_INCLUDED
